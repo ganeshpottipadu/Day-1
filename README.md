@@ -8,13 +8,15 @@ Learned how to use the print() function to display output in Python.
 **String Manipulations**
 Practiced basic operations on strings such as:
 
-Concatenation (+)
+**Concatenation (+)** : Join two or more strings together.
 
-Changing case (.upper(), .lower())
+**Changing case (.upper(), .lower())** : Convert strings to uppercase or lowercase.
 
-Finding length (len())
+**Finding length (len())** : Count the total number of characters in a string.
 
-Indexing and slicing
+**Indexing and slicing** : Access specific characters or parts of a string.
+
+**Splitting and Joining** : Break a string into a list and combine list items back into a string.
 
 **Mini Project: Band Name Generator**
 
