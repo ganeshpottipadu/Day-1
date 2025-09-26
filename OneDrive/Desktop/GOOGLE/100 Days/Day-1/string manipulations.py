@@ -4,7 +4,7 @@ last_name = "Pottipadu"
 full_name = first_name + " " + last_name
 print("Full Name:", full_name)
 
-# Finding the lenght of string
+# Finding the length of string
 text = "Python Programming"
 print("Length of text:", len(text))
 
